@@ -11,9 +11,13 @@ nA=x_I*Y_i+ x_k*Y_k
 
 Keterangan :
 nA	: Nilai Akhir
+
 x_i	: Nilai Individu Peserta Didik
+
 x_k	: Nilai Kelompok Peserta Didik
+
 Y_i	: Persentase Nilai Individu Peserta Didik
+
 Y_k	: Persentase Nilai Kelompok Peserta Didik
 
 Pada persamaan hitung nilai akhir, terdapat 4 buah nilai yaitu nilai individu, nilai kelompok, persentase nilai individu dan persentase nilai kelompok. Nilai individu berasal dari pengerjaan kuis kelompok secara pribadi oleh tiap-tiap peserta didik. Nilai kelompok didapatkan dari rata-rata nilai hasil pengerjaan kuis kelompok oleh suatu kelompok. Sedangkan persentase untuk nilai individu dan nilai kelompok pada plugin nantinya dapat ditentukan oleh pengajar sesuai kriteria yang diinginkan.
